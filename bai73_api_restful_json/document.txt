@@ -1,0 +1,5 @@
+npm install express --save
+
+npm install body-parser --save
+
+npm install lodash --save // thu vien xu ly json, so sanh, tim kiem

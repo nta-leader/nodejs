@@ -1,0 +1,7 @@
+npm install express --save
+
+npm install cookie-parser --save // cookie
+
+npm install ejs --save
+
+npm install body-parser --save

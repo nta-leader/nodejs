@@ -1,0 +1,5 @@
+npm init
+
+npm i --save lodash // thu vien lodash
+
+npm install // khi mat module

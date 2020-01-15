@@ -1,0 +1,3 @@
+npm install mocha chai grunt --save-dev // hox tro phat trien khong lien quan den ung dung
+
+npm install -g nodemon //
